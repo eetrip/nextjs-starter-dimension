@@ -10,10 +10,12 @@ const Header = props => (
     </div>
     <div className="content">
       <div className="inner">
-        <h1>Eeshan Tripathi</h1>
-        <p>
+        <h1>Welcome to --XXX--</h1>
+        {/* <p>Welcome to --XXX--</p> */}
+        {/* <p>
           developer at <a href="https://html5up.net">Xelpmoc design and tech</a>
-        </p>
+        </p> */}
+        <p>developer at Xelpmoc design and tech</p>
       </div>
     </div>
     <nav>
@@ -52,10 +54,20 @@ const Header = props => (
           <a
             href="javascript:;"
             onClick={() => {
+              props.onOpenArticle("Start");
+            }}
+          >
+            Start
+          </a>
+        </li>
+        <li>
+          <a
+            href="javascript:;"
+            onClick={() => {
               props.onOpenArticle("contact");
             }}
           >
-            Contact
+            Contact Us
           </a>
         </li>
       </ul>

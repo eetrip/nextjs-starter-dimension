@@ -30,7 +30,7 @@ class Main extends React.Component {
         >
           <h2 className="major">Intro</h2>
           <span className="image main">
-            {/* <img src="/static/images/pic.png" alt="" /> */}
+            <img src="/static/images/pic01.jpg" alt="" />
           </span>
           <p>
             Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin
@@ -64,7 +64,7 @@ class Main extends React.Component {
         >
           <h2 className="major">Work</h2>
           <span className="image main">
-            {/* <img src="/static/images/pic02.jpg" alt="" /> */}
+            <img src="/static/images/pic02.jpg" alt="" />
           </span>
           <p>
             Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu,
@@ -93,7 +93,7 @@ class Main extends React.Component {
         >
           <h2 className="major">About</h2>
           <span className="image main">
-            {/* <img src="/static/images/pic03.jpg" alt="" /> */}
+            <img src="/static/images/pic03.jpg" alt="" />
           </span>
           <p>
             Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent
@@ -108,13 +108,13 @@ class Main extends React.Component {
         </article>
 
         <article
-          id="Start"
-          className={`${this.props.article === "Start" ? "active" : ""} ${
+          id="contact"
+          className={`${this.props.article === "contact" ? "active" : ""} ${
             this.props.articleTimeout ? "timeout" : ""
           }`}
           style={{ display: "none" }}
         >
-          <h2 className="major">Start</h2>
+          <h2 className="major">Contact</h2>
           <form method="post" action="#">
             <div className="field half first">
               <label htmlFor="name">First Name</label>
@@ -143,61 +143,6 @@ class Main extends React.Component {
             <ul className="actions">
               <li>
                 <input type="submit" value="Submit" className="special" />
-              </li>
-              <li>
-                <input type="reset" value="Reset" />
-              </li>
-            </ul>
-          </form>
-          <ul className="icons">
-            <li>
-              <a href="#">
-                <FontAwesomeIcon icon={faTwitter} />
-              </a>
-            </li>
-            <li>
-              <a href="#">
-                <FontAwesomeIcon icon={faFacebook} />
-              </a>
-            </li>
-            <li>
-              <a href="#">
-                <FontAwesomeIcon icon={faInstagram} />
-              </a>
-            </li>
-            <li>
-              <a href="#">
-                <FontAwesomeIcon icon={faGithub} />
-              </a>
-            </li>
-          </ul>
-          {close}
-        </article>
-
-        <article
-          id="contact"
-          className={`${this.props.article === "contact" ? "active" : ""} ${
-            this.props.articleTimeout ? "timeout" : ""
-          }`}
-          style={{ display: "none" }}
-        >
-          <h2 className="major">Contact</h2>
-          <form method="post" action="#">
-            <div className="field half first">
-              <label htmlFor="name">Name</label>
-              <input type="text" name="name" id="name" />
-            </div>
-            <div className="field half">
-              <label htmlFor="email">Email</label>
-              <input type="text" name="email" id="email" />
-            </div>
-            <div className="field">
-              <label htmlFor="message">Message</label>
-              <textarea name="message" id="message" rows="4"></textarea>
-            </div>
-            <ul className="actions">
-              <li>
-                <input type="submit" value="Send Message" className="special" />
               </li>
               <li>
                 <input type="reset" value="Reset" />
