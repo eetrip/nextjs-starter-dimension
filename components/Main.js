@@ -33,25 +33,14 @@ class Main extends React.Component {
             {/* <img src="/static/images/pic.png" alt="" /> */}
           </span>
           <p>
-            Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin
-            aliquam facilisis ante interdum congue. Integer mollis, nisl amet
-            convallis, porttitor magna ullamcorper, amet egestas mauris. Ut
-            magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas.
-            By the way, check out my <a href="#work">awesome work</a>.
-          </p>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis
-            dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora
-            torquent per conubia nostra, per inceptos himenaeos. Etiam tristique
-            libero eu nibh porttitor fermentum. Nullam venenatis erat id
-            vehicula viverra. Nunc ultrices eros ut ultricies condimentum.
-            Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae
-            dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in
-            lectus. Pellentesque habitant morbi tristique senectus et netus et
-            malesuada fames ac turpis egestas. In non lorem sit amet elit
-            placerat maximus. Pellentesque aliquam maximus risus, vel sed
-            vehicula.
-          </p>
+            With thread-ed we try some of our life experiences to find a perfect friend for you
+            and for this purpose we made an algorithm that calculates 10 to 15 people 
+            who we think are best match for you, We take gender as a consideration 
+            because we think people are independent to chose who they want to be friend With
+            though we believe friendship goes way beyond any barrier humans can create.
+            We hope you enjoy our services.
+            P.S. we wont share any data without asking you
+            </p>
           {close}
         </article>
 
