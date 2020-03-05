@@ -241,7 +241,7 @@ class Main extends React.Component {
             own way{" "}
           </p>
           <div className="wrapper">
-            <div class="divider div-transparent div-dot"></div>
+            <div className="divider div-transparent div-dot"></div>
           </div>
           <h2 className="major">Suggestions</h2>
           <h3>Name here</h3>{" "}
@@ -263,7 +263,7 @@ class Main extends React.Component {
             own way{" "}
           </p>
           <div className="wrapper">
-            <div class="divider div-transparent div-dot"></div>
+            <div className="divider div-transparent div-dot"></div>
           </div>
           <h2 className="major">Suggestions</h2>
           <h3>Name here</h3>{" "}
@@ -285,7 +285,7 @@ class Main extends React.Component {
             own way{" "}
           </p>
           <div className="wrapper">
-            <div class="divider div-transparent div-dot"></div>
+            <div className="divider div-transparent div-dot"></div>
           </div>
           <h2 className="major">Suggestions</h2>
           <h3>Name here</h3>{" "}
@@ -307,7 +307,7 @@ class Main extends React.Component {
             own way{" "}
           </p>
           <div className="wrapper">
-            <div class="divider div-transparent div-dot"></div>
+            <div className="divider div-transparent div-dot"></div>
           </div>
           <h2 className="major">Suggestions</h2>
           <h3>Name here</h3>{" "}
@@ -329,7 +329,7 @@ class Main extends React.Component {
             own way{" "}
           </p>
           {/* <div className="wrapper">
-            <div class="divider div-transparent div-dot"></div>
+            <div className="divider div-transparent div-dot"></div>
           </div> */}
           {close}
         </article>
