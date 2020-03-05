@@ -226,86 +226,111 @@ class Main extends React.Component {
           <span className="image main">
             <img src="/static/images/pic.jpg" alt="" />
           </span>
+          <h3>BIO</h3>
           <p>
             Though we make an honest effort we still would like to request to
             you to never judge your own self or any one else on the baisis of
             apps like these for every person is unique and beautiull in their
             own way{" "}
           </p>
+          <h3>details</h3>
           <p>
             Though we make an honest effort we still would like to request to
             you to never judge your own self or any one else on the baisis of
             apps like these for every person is unique and beautiull in their
             own way{" "}
           </p>
+          <div className="wrapper">
+            <div class="divider div-transparent div-dot"></div>
+          </div>
           <h2 className="major">Suggestions</h2>
           <h3>Name here</h3>{" "}
           <span className="image main">
             <img src="/static/images/pic.jpg" alt="" />
           </span>
+          <h3>BIO</h3>
           <p>
             Though we make an honest effort we still would like to request to
             you to never judge your own self or any one else on the baisis of
             apps like these for every person is unique and beautiull in their
             own way{" "}
           </p>
+          <h3>details</h3>
           <p>
             Though we make an honest effort we still would like to request to
             you to never judge your own self or any one else on the baisis of
             apps like these for every person is unique and beautiull in their
             own way{" "}
           </p>
+          <div className="wrapper">
+            <div class="divider div-transparent div-dot"></div>
+          </div>
           <h2 className="major">Suggestions</h2>
           <h3>Name here</h3>{" "}
           <span className="image main">
             <img src="/static/images/pic.jpg" alt="" />
           </span>
+          <h3>BIO</h3>
           <p>
             Though we make an honest effort we still would like to request to
             you to never judge your own self or any one else on the baisis of
             apps like these for every person is unique and beautiull in their
             own way{" "}
           </p>
+          <h3>details</h3>
           <p>
             Though we make an honest effort we still would like to request to
             you to never judge your own self or any one else on the baisis of
             apps like these for every person is unique and beautiull in their
             own way{" "}
           </p>
+          <div className="wrapper">
+            <div class="divider div-transparent div-dot"></div>
+          </div>
           <h2 className="major">Suggestions</h2>
           <h3>Name here</h3>{" "}
           <span className="image main">
             <img src="/static/images/pic.jpg" alt="" />
           </span>
+          <h3>BIO</h3>
           <p>
             Though we make an honest effort we still would like to request to
             you to never judge your own self or any one else on the baisis of
             apps like these for every person is unique and beautiull in their
             own way{" "}
           </p>
+          <h3>details</h3>
           <p>
             Though we make an honest effort we still would like to request to
             you to never judge your own self or any one else on the baisis of
             apps like these for every person is unique and beautiull in their
             own way{" "}
           </p>
+          <div className="wrapper">
+            <div class="divider div-transparent div-dot"></div>
+          </div>
           <h2 className="major">Suggestions</h2>
           <h3>Name here</h3>{" "}
           <span className="image main">
             <img src="/static/images/pic.jpg" alt="" />
           </span>
+          <h3>BIO</h3>
           <p>
             Though we make an honest effort we still would like to request to
             you to never judge your own self or any one else on the baisis of
             apps like these for every person is unique and beautiull in their
             own way{" "}
           </p>
+          <h3>details</h3>
           <p>
             Though we make an honest effort we still would like to request to
             you to never judge your own self or any one else on the baisis of
             apps like these for every person is unique and beautiull in their
             own way{" "}
           </p>
+          {/* <div className="wrapper">
+            <div class="divider div-transparent div-dot"></div>
+          </div> */}
           {close}
         </article>
       </div>
