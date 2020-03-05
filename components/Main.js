@@ -33,14 +33,15 @@ class Main extends React.Component {
             {/* <img src="/static/images/pic.png" alt="" /> */}
           </span>
           <p>
-            With thread-ed we try some of our life experiences to find a perfect friend for you
-            and for this purpose we made an algorithm that calculates 10 to 15 people 
-            who we think are best match for you, We take gender as a consideration 
-            because we think people are independent to chose who they want to be friend With
-            though we believe friendship goes way beyond any barrier humans can create.
-            We hope you enjoy our services.
-            P.S. we wont share any data without asking you
-            </p>
+            With thread-ed we try some of our life experiences to find a perfect
+            friend for you and for this purpose we made an algorithm that
+            calculates 10 to 15 people who we think are best match for you, We
+            take gender as a consideration because we think people are
+            independent to chose who they want to be friend With though we
+            believe friendship goes way beyond any barrier humans can create. We
+            hope you enjoy our services. P.S. we wont share any data without
+            asking you
+          </p>
           {close}
         </article>
 
@@ -56,13 +57,14 @@ class Main extends React.Component {
             {/* <img src="/static/images/pic02.jpg" alt="" /> */}
           </span>
           <p>
-            Thread-ed tries to match everything that a person could and we hope would like 
-            about another person and thus generates a list of credentials for a particular user
-            and then every other person is judged on the baisis of those credentials and we
-            make a strict criteria for these test which are re-run from the start thus everytime you 
-            use the website we re-check our database to find the right person for you
-            so if you get the same person in more than 3 tries 
-            there must be something special 
+            Thread-ed tries to match everything that a person could and we hope
+            would like about another person and thus generates a list of
+            credentials for a particular user and then every other person is
+            judged on the baisis of those credentials and we make a strict
+            criteria for these test which are re-run from the start thus
+            everytime you use the website we re-check our database to find the
+            right person for you so if you get the same person in more than 3
+            tries there must be something special
           </p>
           {close}
         </article>
@@ -79,12 +81,13 @@ class Main extends React.Component {
             {/* <img src="/static/images/pic03.jpg" alt="" /> */}
           </span>
           <p>
-            Though we make an honest effort we still would like to request to you to never judge 
-            your own self or any one else on the baisis of apps like these for every person is unique 
-            and beautiull in their own way and no machine ever could match the love or friendship that
-            grows with time and stands the test of situations of an individual's life.
-
-            We wish you all stay happy and hope we can help you find some friends :)
+            Though we make an honest effort we still would like to request to
+            you to never judge your own self or any one else on the baisis of
+            apps like these for every person is unique and beautiull in their
+            own way and no machine ever could match the love or friendship that
+            grows with time and stands the test of situations of an individual's
+            life. We wish you all stay happy and hope we can help you find some
+            friends :)
           </p>
           {close}
         </article>
