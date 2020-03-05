@@ -213,6 +213,101 @@ class Main extends React.Component {
           </ul>
           {close}
         </article>
+
+        <article
+          id="Suggestions"
+          className={`${this.props.article === "Suggestions" ? "active" : ""} ${
+            this.props.articleTimeout ? "timeout" : ""
+          }`}
+          style={{ display: "none" }}
+        >
+          <h2 className="major">Suggestions</h2>
+          <h3>Name here</h3>
+          <span className="image main">
+            <img src="/static/images/pic.jpg" alt="" />
+          </span>
+          <p>
+            Though we make an honest effort we still would like to request to
+            you to never judge your own self or any one else on the baisis of
+            apps like these for every person is unique and beautiull in their
+            own way{" "}
+          </p>
+          <p>
+            Though we make an honest effort we still would like to request to
+            you to never judge your own self or any one else on the baisis of
+            apps like these for every person is unique and beautiull in their
+            own way{" "}
+          </p>
+          <h2 className="major">Suggestions</h2>
+          <h3>Name here</h3>{" "}
+          <span className="image main">
+            <img src="/static/images/pic.jpg" alt="" />
+          </span>
+          <p>
+            Though we make an honest effort we still would like to request to
+            you to never judge your own self or any one else on the baisis of
+            apps like these for every person is unique and beautiull in their
+            own way{" "}
+          </p>
+          <p>
+            Though we make an honest effort we still would like to request to
+            you to never judge your own self or any one else on the baisis of
+            apps like these for every person is unique and beautiull in their
+            own way{" "}
+          </p>
+          <h2 className="major">Suggestions</h2>
+          <h3>Name here</h3>{" "}
+          <span className="image main">
+            <img src="/static/images/pic.jpg" alt="" />
+          </span>
+          <p>
+            Though we make an honest effort we still would like to request to
+            you to never judge your own self or any one else on the baisis of
+            apps like these for every person is unique and beautiull in their
+            own way{" "}
+          </p>
+          <p>
+            Though we make an honest effort we still would like to request to
+            you to never judge your own self or any one else on the baisis of
+            apps like these for every person is unique and beautiull in their
+            own way{" "}
+          </p>
+          <h2 className="major">Suggestions</h2>
+          <h3>Name here</h3>{" "}
+          <span className="image main">
+            <img src="/static/images/pic.jpg" alt="" />
+          </span>
+          <p>
+            Though we make an honest effort we still would like to request to
+            you to never judge your own self or any one else on the baisis of
+            apps like these for every person is unique and beautiull in their
+            own way{" "}
+          </p>
+          <p>
+            Though we make an honest effort we still would like to request to
+            you to never judge your own self or any one else on the baisis of
+            apps like these for every person is unique and beautiull in their
+            own way{" "}
+          </p>
+          <h2 className="major">Suggestions</h2>
+          <h3>Name here</h3>{" "}
+          <span className="image main">
+            <img src="/static/images/pic.jpg" alt="" />
+          </span>
+          <p>
+            Though we make an honest effort we still would like to request to
+            you to never judge your own self or any one else on the baisis of
+            apps like these for every person is unique and beautiull in their
+            own way{" "}
+          </p>
+          <p>
+            Though we make an honest effort we still would like to request to
+            you to never judge your own self or any one else on the baisis of
+            apps like these for every person is unique and beautiull in their
+            own way{" "}
+          </p>
+          {close}
+        </article>
       </div>
     );
   }

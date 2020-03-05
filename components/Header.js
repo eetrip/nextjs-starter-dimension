@@ -10,8 +10,8 @@ const Header = props => (
     </div>
     <div className="content">
       <div className="inner">
-        <h1>Welcome to thread-ed</h1>
-        {/* <p>Welcome to --XXX--</p> */}
+        <h1>Welcome to --XXX--</h1>
+        {/* <p>Welcome to thread-ed</p> */}
         {/* <p>
           developer at <a href="https://html5up.net">Xelpmoc design and tech</a>
         </p> */}
@@ -69,6 +69,16 @@ const Header = props => (
             }}
           >
             Contact Us
+          </a>
+        </li>
+        <li>
+          <a
+            href="javascript:;"
+            onClick={() => {
+              props.onOpenArticle("Suggestions");
+            }}
+          >
+            Suggestions
           </a>
         </li>
       </ul>
