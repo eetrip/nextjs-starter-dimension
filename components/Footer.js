@@ -6,7 +6,7 @@ const Footer = props => (
       &copy; this is edited: <a href="https://html5up.net">extremely</a> edited:{" "}
       <a href="https://github.com/zeit/next.js">u will see</a>
     </p> */}
-    <p className="copyright">copyright</p>
+    <p className="copyright">made by eeshan tripathi</p>
   </footer>
 );
 
